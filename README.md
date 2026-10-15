@@ -69,7 +69,7 @@ Kolmogorov–Arnold Residual Learning. <conference name, proceedings, year, page
 
 ## License
 
-The figures and tables in this repository are released under the
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-license. You may share and adapt them, including commercially, provided you give appropriate
-credit to the authors. No source code is included in this repository.
+This repository contains supplementary material for the paper cited above and is provided for
+reference and for verification of the reported results. No open-source license has been applied
+at this time, so all rights remain with the authors. If you wish to reuse or redistribute any
+figure or table, please cite the paper and contact the corresponding author.
