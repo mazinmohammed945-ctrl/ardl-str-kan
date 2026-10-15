@@ -2,8 +2,11 @@
 
 Supplementary material for the paper **"A Regime-Gated Hybrid Forecasting Framework: Coupling
 Autoregressive Distributed Lags, Smooth-Transition Dynamics, and Kolmogorov–Arnold Residual
-Learning"** by Mazin Mohammed, Dibu A.S. and Sathya P., Department of Statistics, CHRIST
-(Deemed to be University), Bengaluru, India.
+Learning"**.
+
+**Author:** Mazin Mohammed (corresponding author), Department of Statistics, CHRIST (Deemed to
+be University), Bengaluru, India — mazin.mohammed@stat.christuniversity.in
+**Co-authors:** Dibu A.S. and Sathya P., same department.
 
 ARDL–STR–KAN is a three-stage hybrid forecaster: an ARDL linear conditional mean, a logistic
 smooth-transition (STR) gate whose transition variable is chosen by a Teräsvirta-type F-test,
@@ -12,7 +15,7 @@ and a Kolmogorov–Arnold Network (KAN) that learns the nonlinear ARDL residual,
 
 ## Contents
 
-### Figures (`figures/`)
+### Figures (`Figures/`)
 
 | File | Paper reference | Shows |
 |---|---|---|
@@ -27,7 +30,7 @@ and a Kolmogorov–Arnold Network (KAN) that learns the nonlinear ARDL residual,
 Note: in `S2`, the panel titles use x₂,t and x₃,t for the series called m_t (10-year yield)
 and n_t (VIX) in the paper.
 
-### Tables (`tables/`)
+### Tables (`Tables/`)
 
 | File | Paper reference | Shows |
 |---|---|---|
@@ -63,10 +66,9 @@ Coupling Autoregressive Distributed Lags, Smooth-Transition Dynamics, and
 Kolmogorov–Arnold Residual Learning. <conference name, proceedings, year, pages/DOI>
 ```
 
-## Contact
-
-Corresponding author: Mazin Mohammed, mazin.mohammed@stat.christuniversity.in
-
 ## License
 
-Figures and tables: CC BY 4.0. Code (if added): MIT.
+The figures and tables in this repository are released under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+license. You may share and adapt them, including commercially, provided you give appropriate
+credit to the authors. No source code is included in this repository.
