@@ -61,7 +61,7 @@ Raw data are not redistributed here; please download them from the original sour
 If you use this material, please cite the paper:
 
 ```
-Mohammed, M., Dibu, A.S., Sathya, P.: A Regime-Gated Hybrid Forecasting Framework:
+Mazin Mohammed, Dibu A.S. and Sathya P.: A Regime-Gated Hybrid Forecasting Framework:
 Coupling Autoregressive Distributed Lags, Smooth-Transition Dynamics, and
 Kolmogorov–Arnold Residual Learning. <conference name, proceedings, year, pages/DOI>
 ```
