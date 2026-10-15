@@ -6,6 +6,7 @@ Learning"**.
 
 **Author:** Mazin Mohammed (corresponding author), Department of Statistics, CHRIST (Deemed to
 be University), Bengaluru, India — mazin.mohammed@stat.christuniversity.in
+
 **Co-authors:** Dibu A.S. and Sathya P., same department.
 
 ARDL–STR–KAN is a three-stage hybrid forecaster: an ARDL linear conditional mean, a logistic
