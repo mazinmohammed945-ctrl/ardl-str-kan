@@ -7,7 +7,7 @@ Learning"**.
 **Author:** Mazin Mohammed (corresponding author), Department of Statistics, CHRIST (Deemed to
 be University), Bengaluru, India — mazin.mohammed@stat.christuniversity.in
 
-**Co-authors:** Dibu A.S. and Sathya P., same department.
+**Co-authors:**  A.S. Dibu and Sathya P., same department.
 
 ARDL–STR–KAN is a three-stage hybrid forecaster: an ARDL linear conditional mean, a logistic
 smooth-transition (STR) gate whose transition variable is chosen by a Teräsvirta-type F-test,
@@ -62,7 +62,7 @@ Raw data are not redistributed here; please download them from the original sour
 If you use this material, please cite the paper:
 
 ```
-Mazin Mohammed, Dibu A.S. and Sathya P.: A Regime-Gated Hybrid Forecasting Framework:
+Mazin Mohammed, A.S. Dibu and Sathya P.: A Regime-Gated Hybrid Forecasting Framework:
 Coupling Autoregressive Distributed Lags, Smooth-Transition Dynamics, and
 Kolmogorov–Arnold Residual Learning. <conference name, proceedings, year, pages/DOI>
 ```
